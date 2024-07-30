@@ -101,12 +101,12 @@
         function excluirUltimo() {
             var input = document.getElementById('inputCaractere');
 
-            if (erroAtivo = true) {
-                input.value = 'ERRO';                
+            if (erroAtivo != true) {
+                input.value = input.value.slice(0, -1);                
             } else {
-                input.value = input.value.slice(0, -1);
+                input.value = '';
+                erroAtivo = false;
             }
-
         }
 
         function calcular() {
