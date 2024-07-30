@@ -102,7 +102,7 @@
             var input = document.getElementById('inputCaractere');
 
             if (erroAtivo = true) {
-                return;                
+                input.value = 'ERRO';                
             } else {
                 input.value = input.value.slice(0, -1);
             }
@@ -146,7 +146,7 @@
                 <div class="col-12 d-flex justify-content-between mb-1">
                     <button type="button" class="btn btn-danger" onclick="apagarInput()"> C </button>
                     <button type="button" class="btn btn-primary" onclick="excluirUltimo()">  <i class="fa-solid fa-delete-left"></i> </button>
-                    <button type="button" class="btn btn-secondary"> MC </button>
+                    <button type="button" class="btn btn-secondary"> M </button>
                     <button type="button" class="btn btn-secondary" onclick="preencherInput('/')" > <i class="fa-solid fa-divide"></i> </button>
                 </div>
 
