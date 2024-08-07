@@ -1,4 +1,0 @@
-Fortaleza Digital - Dan Brown - 978–85–030–0000–4 - Arqueiro - Suspense - 1998 - /var/www/html/test2/modules/books/uploads/Fortaleza Digital – Dan Brown.pdf
-O Corvo - Edgar Alan Poe - 945–43–121–3250–5 - Penguin - Poesia - 1845 - /var/www/html/test2/modules/books/uploads/O Corvo – Edgar Allan Poe.pdf
-Crônica de Uma Morte Anunciada - Gabriel Garcia Marquez - 945–12–660–0124–4 - Companhia das Letras - Fantasia - 1981 - /var/www/html/test2/modules/books/uploads/Crônica de Uma Morte Anunciada – Gabriel García Márquez.pdf
-Quincas Borbas - Machado de Assis - 945–00–121–5411–3 - Companhia das Letras - Romance - 1891 - /var/www/html/test2/modules/books/uploads/Quincas Borba – Machado de Assis.pdf
