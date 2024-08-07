@@ -4,7 +4,7 @@
     $projectName = "Free Library";
 
     # Diretório auxiliar do projeto 
-    $projectFolder = "test2";  
+    $projectFolder = "free-library";  
 
     # Url base (do navegador) do projeto 
     $baseUrl  = "http://".$_SERVER['SERVER_NAME']."/".$projectFolder;
